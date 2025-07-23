@@ -21,6 +21,10 @@ Note that here, the root of the name is "flood". Alas, usage proceeds as follows
 
 ./png_to_video flood
 
+More generally, usage proceeds as follows:
+
+./png_to_video <root of png filename>
+
 and this will automatically load all of the "flood" image files, and create one output file,
 
 flood.mp4
