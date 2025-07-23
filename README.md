@@ -2,9 +2,11 @@
 This c program will generate an *.mp4 file from a set of *.png files that capture sequential time steps
 
 #Basic information
+
 This program utilizes the package ffmpeg, which needs to be installed for compilation to be succesful.
 
 #Compilation
+
 gcc -o png_to_video png_to_video.c
 
 #Usage
