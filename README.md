@@ -5,6 +5,8 @@ This c program will generate an *.mp4 file from a set of *.png files that captur
 
 This program utilizes the package ffmpeg, which needs to be installed for compilation to be succesful.
 
+A Matlab script is also included to create a series of flood depth png images.
+
 #Compilation
 
 gcc -o png_to_video png_to_video.c
