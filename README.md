@@ -23,7 +23,7 @@ Note that here, the root of the name is "flood". Alas, usage proceeds as follows
 
 More generally, usage proceeds as follows:
 
-./png_to_video <root of png filename>
+./png_to_video <fnameroot>
 
 and this will automatically load all of the "flood" image files, and create one output file,
 
